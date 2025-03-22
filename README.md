@@ -1,0 +1,2 @@
+Project Description
+In this web development lab we focus on how to create a well structured HTML5 webpage using semantic elements, built-in validation through implementing HTML5 forms to fix errors and publish it on GitHub.
